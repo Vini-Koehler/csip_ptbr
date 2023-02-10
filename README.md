@@ -1,6 +1,9 @@
 Psychometric Properties of the Brazilian Portuguese Version of the Circumplex Scales of Interpersonal Problems
+
 Authors: Vinícius Betzel Koehler, M. J. Boudreaux, and R. S. Tokumaru
+
 DOI:
+
 Contact first author for further information
 
 Data Coding
